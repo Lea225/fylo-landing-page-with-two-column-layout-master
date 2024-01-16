@@ -24,7 +24,7 @@ h1{
     font-size: 1.7em;
 }
 section,header,footer{
-    padding: 0 30px;
+    padding: 0 50px;
 }
 .section1{
     display: flex;
